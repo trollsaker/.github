@@ -1,2 +1,2 @@
-# trollsaker
+# Trollsäker AB
 Website and Github
